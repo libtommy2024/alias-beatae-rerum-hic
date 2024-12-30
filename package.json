@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/alias-beatae-rerum-hic",
-  "version": "8.26.205",
+  "version": "8.26.206",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -391,5 +391,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/alias-beatae-rerum-hic/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
